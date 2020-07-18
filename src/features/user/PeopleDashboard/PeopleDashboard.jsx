@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const PeopleDashboard = () => {
     return (
@@ -8,4 +8,4 @@ const PeopleDashboard = () => {
     )
 }
 
-default export PeopleDashboard;
+export default PeopleDashboard;
