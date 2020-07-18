@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const SettingsDashboard = () => {
+const SettingsDashboard = () => {
     return (
         <div>
             <h1>Settings dashboard</h1>

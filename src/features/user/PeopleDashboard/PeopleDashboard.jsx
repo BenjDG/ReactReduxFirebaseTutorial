@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const PeopleDashboard = () => {
+const PeopleDashboard = () => {
     return (
         <div>
             <h1>People dashboard</h1>

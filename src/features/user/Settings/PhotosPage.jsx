@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const PhotosPage = () => {
+const PhotosPage = () => {
     return (
         <div>
             <h1>Photos page</h1>
